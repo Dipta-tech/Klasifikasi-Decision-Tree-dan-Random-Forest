@@ -20,6 +20,7 @@ Rentan terhadap overfitting jika tidak dikontrol
 Metode ensemble dari banyak Decision Tree
 Lebih stabil dan akurat
 Mengurangi overfitting
+
 ⚙️ Teknologi yang Digunakan
 Python
 Jupyter Notebook
@@ -28,6 +29,7 @@ pandas
 numpy
 matplotlib / seaborn
 scikit-learn
+
 🔄 Alur Proyek
 Import Library
 Load Dataset
@@ -45,6 +47,7 @@ Accuracy
 Confusion Matrix
 Precision & Recall
 Perbandingan Model
+
 📊 Hasil
 Random Forest umumnya memberikan hasil yang lebih akurat dibanding Decision Tree
 Decision Tree lebih mudah diinterpretasikan
